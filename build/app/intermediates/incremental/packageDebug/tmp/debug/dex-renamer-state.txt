@@ -1,0 +1,4 @@
+#Sun Nov 21 14:35:50 BDT 2021
+base.0=D\:\\Imam Excel IT AI\\ecommerce_meal_monkey\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
